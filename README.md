@@ -1,4 +1,4 @@
-Hi There! 👋, I am Akshay Devadiga Currently working as a Associate Product Engineer at DeltaX.
+Hi There! 👋, I am Akshay Devadiga Currently working as a Associate Product Engineer at ![DeltaX](https://www.deltax.com/wp-content/uploads/2018/04/Delta-horizontal-revision-topbar.png).
 
 
 
