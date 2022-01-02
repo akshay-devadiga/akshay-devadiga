@@ -1,4 +1,13 @@
-Hi There! 👋, I am Akshay Devadiga Currently working as a Associate Product Engineer at <img src="https://www.deltax.com/wp-content/uploads/2018/04/Delta-horizontal-revision-topbar.png" alt="DeltaX" width="80"/>.
+Hi There! 👋, I am Akshay Devadiga :full_moon_with_face:
+
+Currently working as a Associate Product Engineer at <img src="https://www.deltax.com/wp-content/uploads/2018/04/Delta-horizontal-revision-topbar.png" alt="DeltaX" width="80"/>.
+
+My passion is to work with talented people and collaborate to make products that would make a meaningful impact and I enjoy the learning process associated with it. A few points that I would like to mention about my current role at DeltaX.
+- Knowledgeable about frontend development best practices.
+- Proven track record of building new and impactful features.
+- Skilled in developing and testing a product.
+- Troubleshooting,Debugging existing features
+
 
 ##### Some of my hobby projects
 
@@ -20,7 +29,7 @@ Hi There! 👋, I am Akshay Devadiga Currently working as a Associate Product En
       
 
 
-##### Profiles:
+##### My Profiles: :point_right:  
 
 My Portfolio :point_right:  https://akshay-devadiga.github.io/
 
