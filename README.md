@@ -19,10 +19,11 @@ Hi There! 👋, I am Akshay Devadiga Currently working as a Associate Product En
 - [Relico Mock - Single Page](https://www.figma.com/file/clr3yYv3Fhu8pJuQqdHrAP/Ecommerce-Mocks)   
       
 
-##### <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> :point_right: https://in.linkedin.com/in/akshay-devadiga-652687115
 
-##### <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> :point_right: akshay.devadiga@protonmail.com
+##### Profiles:
 
-##### My Portfolio :point_right:  https://akshay-devadiga.github.io/
+My Portfolio :point_right:  https://akshay-devadiga.github.io/
 
-[![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/akshay-devadiga-652687115)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/akshay-devadiga-652687115)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:akshay.devadiga@protonmail.com)
+[<img src="https://developers.turing.com/static/media/turing_logo_text.65329785.svg" alt="DeltaX" width="80"/>](https://matching.turing.com/developer-resume-preview/38733982a54ea61a863db2e63c38d28eb779daf65269)
