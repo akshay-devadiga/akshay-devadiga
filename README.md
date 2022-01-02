@@ -48,3 +48,6 @@ Skills used in my current role
 
 ![LinkedIn](https://github-readme-stats.vercel.app/api?username=akshay-devadiga)
 
+![LinkedIn](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-devadiga)
+
+
