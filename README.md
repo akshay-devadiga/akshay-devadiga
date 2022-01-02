@@ -4,7 +4,9 @@ Hi There! 👋, I am Akshay Devadiga Currently working as a Associate Product En
 
   Relico - Ecommerce 
   
-  I am currently working on a Light Weight Ecommerce Product with Stripe integration, purpose of this project was to solve a problem statement which i had encounterd while using one of the ecommerce products [WIX-Ecommece-service-with-multiple-prices](https://support.wix.com/en/article/wix-bookings-request-offering-a-service-with-multiple-prices)  
+  I am currently working on a Light Weight Ecommerce Product with Stripe integration, purpose of this project was to solve a problem statement which i had encounterd while using one of the ecommerce products.
+  
+  <i>More info</i> - [WIX-Ecommece-service-with-multiple-prices](https://support.wix.com/en/article/wix-bookings-request-offering-a-service-with-multiple-prices)  
  
  Demo 
  - [DEMO - Relico - Store Front](https://akshay-devadiga.github.io/relico-store-front)   
@@ -17,6 +19,10 @@ Hi There! 👋, I am Akshay Devadiga Currently working as a Associate Product En
 - [Relico Mock - Single Page](https://www.figma.com/file/clr3yYv3Fhu8pJuQqdHrAP/Ecommerce-Mocks)   
       
 
-##### My LinkedIn Profile --> https://in.linkedin.com/in/akshay-devadiga-652687115
+##### <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> :point_right: https://in.linkedin.com/in/akshay-devadiga-652687115
 
-##### My Portfolio --> https://akshay-devadiga.github.io/
+##### <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> :point_right: akshay.devadiga@protonmail.com
+
+##### My Portfolio :point_right:  https://akshay-devadiga.github.io/
+
+[![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/akshay-devadiga-652687115)
