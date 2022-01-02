@@ -9,7 +9,7 @@ My passion is to work with talented people and collaborate to make products that
 - Troubleshooting,Debugging existing features
 
 
-##### Some of my hobby projects
+##### Some of my hobby projects :point_right:  
 
   Relico - Ecommerce 
   
@@ -21,7 +21,7 @@ My passion is to work with talented people and collaborate to make products that
  - [DEMO - Relico - Store Front](https://akshay-devadiga.github.io/relico-store-front)   
  - [DEMO - Relico - Admin](https://akshay-devadiga.github.io/relicoadmin) 
        
-##### Some of my project concepts (without Prototyping) built with Figma
+##### Some of my project concepts (without Prototyping) built with Figma :point_right:  
 - [Habit Tracking App](https://www.figma.com/file/0yHYDsJwESkRnWdRag4q8D/Habit-Tracking-APP-Mock)
 - [Light Weight Ecommerce](https://www.figma.com/file/cRzeC8yD1g6n1xZo8dcxGS/Light-Weight-Ecommerce--Concept)
 - [Priorization ToDo App](https://www.figma.com/file/adUWHgTpYZ5MHsZRAeJjqN/Todo-App-Mock)
@@ -31,8 +31,7 @@ My passion is to work with talented people and collaborate to make products that
 
 ##### My Profiles: :point_right:  
 
-My Portfolio :point_right:  https://akshay-devadiga.github.io/
-
+[![My Portfolio Website](https://akshay-devadiga.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/akshay-devadiga-652687115)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:akshay.devadiga@protonmail.com)
 [<img src="https://developers.turing.com/static/media/turing_logo_text.65329785.svg" alt="DeltaX" width="80"/>](https://matching.turing.com/developer-resume-preview/38733982a54ea61a863db2e63c38d28eb779daf65269)
