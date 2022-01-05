@@ -35,7 +35,8 @@ Skills used in my current role
 - [Priorization ToDo App](https://www.figma.com/file/adUWHgTpYZ5MHsZRAeJjqN/Todo-App-Mock)
 - [Relico Mock - Single Page](https://www.figma.com/file/clr3yYv3Fhu8pJuQqdHrAP/Ecommerce-Mocks)   
       
-
+##### Resume: 👉 
+- [GDrive](https://drive.google.com/file/d/1oW39qRIzxhSbt50yc7b22DYD_RkX-kOB/view?usp=sharing)
 
 ##### My Profiles: :point_right:  
 
