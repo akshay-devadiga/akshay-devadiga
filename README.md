@@ -21,13 +21,13 @@ Skills used in my current role
 
   Relico - Ecommerce 
   
-  I am currently working on a Light Weight Ecommerce Product with Stripe integration, purpose of this project was to solve a problem statement which i had encounterd while using one of the ecommerce products.
+  I am currently working on a Light Weight Ecommerce Product with Stripe integration, purpose of this project was to solve a problem statement that I had encountered while using one of the e-commerce products.
   
   <i>More info</i> - [WIX-Ecommece-service-with-multiple-prices](https://support.wix.com/en/article/wix-bookings-request-offering-a-service-with-multiple-prices)  
  
  Demo 
  - [DEMO - Relico - Store Front](https://akshay-devadiga.github.io/relico-store-front)   
- - [DEMO - Relico - Admin](https://akshay-devadiga.github.io/relicoadmin) 
+ <!-- - [DEMO - Relico - Admin](https://akshay-devadiga.github.io/relicoadmin) -->
        
 ##### Some of my project concepts (without Prototyping) built with Figma :point_right:  
 - [Habit Tracking App](https://www.figma.com/file/0yHYDsJwESkRnWdRag4q8D/Habit-Tracking-APP-Mock)
