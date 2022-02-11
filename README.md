@@ -29,6 +29,9 @@ Skills used in my current role
  - [DEMO - Relico - Store Front](https://akshay-devadiga.github.io/relico-store-front)   
  <!-- - [DEMO - Relico - Admin](https://akshay-devadiga.github.io/relicoadmin) -->
        
+ ##### Sample works
+ [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/collection/eJJzWO?cursor=ZD0xJm89MSZwPTEmdj0z)      
+       
 ##### Some of my project concepts (without Prototyping) built with Figma :point_right:  
 - [Habit Tracking App](https://www.figma.com/file/0yHYDsJwESkRnWdRag4q8D/Habit-Tracking-APP-Mock)
 - [Light Weight Ecommerce](https://www.figma.com/file/cRzeC8yD1g6n1xZo8dcxGS/Light-Weight-Ecommerce--Concept)
