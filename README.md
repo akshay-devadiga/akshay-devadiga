@@ -56,4 +56,8 @@ Skills used in my current role
 
 ![LinkedIn](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-devadiga)
 
-
+##### Hackthons
+- DeltaX Hackday 2020 - Collaborated with [@amberramesh]( https://www.giters.com/amberramesh) to explore gRPC based polyglot base service.
+- DeltaX Hackday 2021 - Collaborated with Vignesh Prabhu & Aadith Menon to build dev productivity app. 
+ [Click here to check one of the UI modules of the app](https://codepen.io/akshayd21/pen/gOwvqJY)
+- DeltaX Hackday 2022 - Collaborated with Ravi Nath Yadav, Asim Nath, Nikhil Chohan to build training app for DeltaX  [Won by participants choice] 
