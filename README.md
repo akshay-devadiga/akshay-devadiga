@@ -2,7 +2,7 @@ Hi There! 👋, I am Akshay Devadiga :full_moon_with_face:
 
 Currently working as a Software Engineer at <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGA42ZucMkHgQ/company-logo_200_200/0/1649673341875?e=2147483647&v=beta&t=UXxfU3aEj2AJW21EjYmLLIrs5LL_A3b0-cfN-9KsB-s" alt="Njorda" width="30"/>.
 
-My passion is to work with talented people and collaborate to make products that would make a meaningful impact and I enjoy the learning process associated with it. A few points that I would like to mention about my current role at DeltaX.
+My passion is to work with talented people and collaborate to make products that would make a meaningful impact and I enjoy the learning process associated with it. A few points that I would like to mention about my current role at Njorda.
 - Knowledgeable about frontend development best practices.
 - Proven track record of building new and impactful features.
 - Skilled in developing and testing a product.
@@ -56,7 +56,7 @@ Skills used in my current role
 
 ![LinkedIn](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-devadiga)
 
-##### Hackthons
+##### Hackathons
 - DeltaX Hackday 2020 - Collaborated with [@amberramesh]( https://www.giters.com/amberramesh) to explore gRPC based polyglot base service.
 - DeltaX Hackday 2021 - Collaborated with Vignesh Prabhu & Aadith Menon to build dev productivity app. 
  [Click here to check one of the UI modules of the app](https://codepen.io/akshayd21/pen/gOwvqJY)
